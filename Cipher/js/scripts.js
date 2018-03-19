@@ -3,4 +3,4 @@ var sentence = function(answer1){
 };
 var answer1 = prompt("Please enter a sentence.");
 
-var letters = alert(answer1.charAt(0).toUpperCase() + answer1.slice(-1).toUpperCase());
+var letters = alert(answer1.charAt(0).toUpperCase() + answer1.slice(-1).toUpperCase() + answer1);
